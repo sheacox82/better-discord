@@ -25,7 +25,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: url(https://raw.githubusercontent.com/sheacox82/betterdiscord/refs/heads/main/images/cthulhu-discovered.png);
+  --background-image: url(https://github.com/sheacox82/better-discord/blob/main/images/cthulhu-discovered.png?raw=true);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
@@ -37,7 +37,7 @@
   --user-modal-attachment: var(--background-attachment);
   --user-modal-filter: var(--background-filter);
   /* HOME ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg);
+  --home-icon: url(https://github.com/sheacox82/better-discord/blob/main/images/flying-mini-cthulhu.gif?raw=true);
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
